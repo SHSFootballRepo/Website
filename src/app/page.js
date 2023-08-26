@@ -12,6 +12,7 @@ export default function Home() {
         
         
         </div>
+        <FooterComponent></FooterComponent>
     </main>
   )
 }
